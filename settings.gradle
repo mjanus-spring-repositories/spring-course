@@ -1,0 +1,4 @@
+rootProject.name = 'Instrument'
+include 'mjanus'
+include 'agent'
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/byte-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/messaging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-batch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-events" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webflux" vcs="Git" />
+  </component>
+</project>

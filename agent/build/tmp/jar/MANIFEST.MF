@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: com.mjanus.agent.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
